@@ -1,1 +1,1 @@
-# Projeto-Python-Lucas
+# Arthur e Juan Projeto Python 1
